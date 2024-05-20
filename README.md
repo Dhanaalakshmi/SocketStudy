@@ -1,6 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
-	NAME:DHANA LAKSHMI A
-	REG NO:212223040033
+
+NAME:DHANA LAKSHMI A
+REG NO:212223040033
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
